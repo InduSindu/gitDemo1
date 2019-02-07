@@ -1,0 +1,10 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 7EC7-1243
+
+ Directory of E:\gitDemo1
+
+02/07/19  11:37 AM    <DIR>          .
+02/07/19  11:37 AM    <DIR>          ..
+02/07/19  11:37 AM                 0 one.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  62,644,895,744 bytes free
